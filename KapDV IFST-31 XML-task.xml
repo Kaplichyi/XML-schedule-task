@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Schedule name="IFST-31_Lessons">
 	<Day name="Monday">
-		<Lesson1>
+		<Lesson id="1">
 			<Time>8.30-10.00</Time>
 			<Week name="any">
 				<Subject>Элективные курсы по физической культуре</Subject>
 				<Teacher>ст.пр. Зуева И.А.</Teacher>
 				<Classroom>Сп. зал</Classroom>
 			</Week>
-		</Lesson1>
-		<Lesson2>
+		</Lesson>
+		<Lesson id="2">
 			<Time>10.10-11.40</Time>
 			<Week name="any">
 				<Subject>Ин. яз. для проф.общ.</Subject>
 				<Teacher>ст.пр.Бахарева О.В., ст.пр.Погосян Ж.Р., ст.пр.Руденко С.В</Teacher>
 				<Classroom>525,423,433</Classroom>
 			</Week>
-		</Lesson2>
-		<Lesson3>
+		</Lesson>
+		<Lesson id="3">
 			<Time>12.10-13.40</Time>
 			<Week name="any">
 				<Subject>Современные технологии интернет программирования</Subject>
 				<Teacher>ст.пр. Ефремов Р.В.</Teacher>
 				<Classroom>ВЦ</Classroom>
 			</Week>
-		</Lesson3>
+		</Lesson>
 	</Day>
 	
 	<Day name="Tuesday">
-		<Lesson2>
+		<Lesson id="1">
 			<Time>10.10-11.40</Time>
 			<Week name="any">
 				<Subject>М/м технологии</Subject>
 				<Teacher>доц.Виштак Н.М.</Teacher>
 				<Classroom>ВЦ</Classroom>
 			</Week>
-		</Lesson2>
-		<Lesson3>
+		</Lesson>
+		<Lesson id="2">
 			<Time>12.10-13.40</Time>
 			<Week name="any">
 				<Subject>Моделирование процессов и систем</Subject>
 				<Teacher>доц.Очкур Г.В.</Teacher>
 				<Classroom>102</Classroom>
 			</Week>
-		</Lesson3>
+		</Lesson>
 	</Day>
 	
 	<Day name="Wednesday">
-		<Lesson1>
+		<Lesson id="1">
 			<Time>8.30-10.00</Time>
 			<Week name="any">
 				<Subject>Технологии создания web-ресурсов</Subject>
 				<Teacher>ст.пр. Мотков А.Г.</Teacher>
 				<Classroom>102</Classroom>
 			</Week>
-		</Lesson1>
-		<Lesson2>
+		</Lesson>
+		<Lesson id="2">
 			<Time>10.10-11.40</Time>
 			<Week name="Odd">
 				<Subject>Технологии создания web-ресурсов</Subject>
@@ -67,11 +67,11 @@
 				<Teacher>проф.Виштак О.В.</Teacher>
 				<Classroom>102</Classroom>
 			</Week>
-		</Lesson2>
+		</Lesson>
 	</Day>
 	
 	<Day name="Thursday">
-		<Lesson2>
+		<Lesson id="1">
 			<Time>10.10-11.40</Time>
 			<Week name="Odd">
 				<Subject>ФНиТ</Subject>
@@ -83,27 +83,27 @@
 				<Teacher>ст.пр.Михеев И.В.</Teacher>
 				<Classroom>ВЦ</Classroom>
 			</Week>
-		</Lesson2>
-		<Lesson3>
+		</Lesson>
+		<Lesson id="2">
 			<Time>12.10-13.40</Time>
 			<Week name="any">
 				<Subject>Архитектура информационных систем</Subject>
 				<Teacher>ст.пр.Михеев И.В.</Teacher>
 				<Classroom>ВЦ</Classroom>
 			</Week>
-		</Lesson3>
+		</Lesson>
 	</Day>
 	
 	<Day name="Friday">
-		<Lesson1>
+		<Lesson id="1">
 			<Time>8.30-10.00</Time>
 			<Week name="any">
 				<Subject>Современные технологии управения базами данных</Subject>
 				<Teacher>доц. Штырова И.А.</Teacher>
 				<Classroom>102</Classroom>
 			</Week>
-		</Lesson1>
-		<Lesson2>
+		</Lesson>
+		<Lesson id="2">
 			<Time>10.10-11.40</Time>
 			<Week name="Odd">
 				<Subject>Элективные курсы по физической культуре</Subject>
@@ -115,11 +115,11 @@
 				<Teacher>доц. Штырова И.А.</Teacher>
 				<Classroom>102</Classroom>
 			</Week>
-		</Lesson2>
+		</Lesson>
 	</Day>
 	
 	<Day name="Saturday">
-		<Lesson1>
+		<Lesson id="1">
 			<Time>8.30-10.00</Time>
 			<Week name="Odd">
 				<Subject>Философия науки и техники</Subject>
@@ -131,16 +131,16 @@
 				<Teacher> - </Teacher>
 				<Classroom> - </Classroom>
 			</Week>
-		</Lesson1>
-		<Lesson3>
+		</Lesson>
+		<Lesson id="2">
 			<Time>12.10-13.40</Time>
 			<Week name="any">
 				<Subject>Современные технологии ООП</Subject>
 				<Teacher>Бельмесов П.И.</Teacher>
 				<Classroom>ВЦ</Classroom>
 			</Week>
-		</Lesson3>
-		<Lesson4>
+		</Lesson>
+		<Lesson id="3">
 			<Time>13.50-15.20</Time>
 			<Week name="Odd">
 				<Subject> - </Subject>
@@ -152,7 +152,7 @@
 				<Teacher>Бельмесов П.И.</Teacher>
 				<Classroom>ВЦ</Classroom>
 			</Week>
-		</Lesson4>
+		</Lesson>
 	</Day>
 	
 </Schedule>
